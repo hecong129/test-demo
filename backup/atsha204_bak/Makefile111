@@ -1,0 +1,2 @@
+
+obj-m +=atsha204.o

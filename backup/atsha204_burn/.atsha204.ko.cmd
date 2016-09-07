@@ -1,0 +1,1 @@
+cmd_/home/hecong/.backup/atsha204_burn/atsha204.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/hecong/work/build_version/kernel/kernel/scripts/module-common.lds --build-id -o /home/hecong/.backup/atsha204_burn/atsha204.ko /home/hecong/.backup/atsha204_burn/atsha204.o /home/hecong/.backup/atsha204_burn/atsha204.mod.o

@@ -1,0 +1,139 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ATSHA204A_H	atsha204.h	28;"	d
+ATSHA204_CHECKMAC_COMMAND	atsha204.c	92;"	d	file:
+ATSHA204_DEBUG_EN	atsha204.c	52;"	d	file:
+ATSHA204_I2C_ADDR	atsha204.c	65;"	d	file:
+ATSHA204_LOCK_COMMAND	atsha204.c	89;"	d	file:
+ATSHA204_MAC_COMMAND	atsha204.c	91;"	d	file:
+ATSHA204_NAME	atsha204.c	66;"	d	file:
+ATSHA204_NONCE_COMMAND	atsha204.c	90;"	d	file:
+ATSHA204_READ_COMMAND	atsha204.c	87;"	d	file:
+ATSHA204_TAG	atsha204.c	50;"	d	file:
+ATSHA204_WRITE_COMMAND	atsha204.c	88;"	d	file:
+Buffer1	atsha204.c	/^uint8_t Buffer1[39] = {0x27,0x12,0x82,0x00,0x00,0x11,0x11,0x23,0xB6,0xCC,0x53,0xB7,0xB9,0xE9,0xBB,0x51,0xFD,0x2F,0x74,0xCD,0x0E,$/;"	v
+Buffer10	atsha204.c	/^uint8_t Buffer10[39] ={0x27,0x12,0x82,0x48,0x00,0xce,0xe3,0x24,0xa6,0x18,0xf6,0x66,0x44,0xa5,0xc6,0xd8,0xcc,0x77,0xe9,0xf6,0xd5,$/;"	v
+Buffer11	atsha204.c	/^uint8_t Buffer11[39] ={0x27,0x12,0x82,0x50,0x00,0x45,0x95,0xd6,0xf6,0x21,0x71,0x24,0xff,0x22,0x22,0x22,0xa3,0x75,0xf6,0x24,0xd6,$/;"	v
+Buffer12	atsha204.c	/^uint8_t Buffer12[39] ={0x27,0x12,0x82,0x58,0x00,0x13,0x74,0xef,0xfc,0x1a,0x51,0x61,0x38,0x94,0x2b,0x7b,0x56,0x69,0x43,0x27,0x73,$/;"	v
+Buffer13	atsha204.c	/^uint8_t Buffer13[39] ={0x27,0x12,0x82,0x60,0x00,0x56,0xd4,0x32,0xac,0xcd,0x56,0x77,0xd9,0x46,0x17,0xed,0xd6,0xac,0x13,0x74,0x58,$/;"	v
+Buffer14	atsha204.c	/^uint8_t Buffer14[39] ={0x27,0x12,0x82,0x68,0x00,0x46,0x78,0xaa,0x56,0xfc,0xed,0xef,0x2e,0x3e,0x16,0x34,0xaa,0xcd,0xac,0x83,0x17,$/;"	v
+Buffer15	atsha204.c	/^uint8_t Buffer15[39] ={0x27,0x12,0x82,0x70,0x00,0xd6,0xa3,0xd2,0xe6,0xa2,0xc6,0x34,0x24,0x86,0x98,0x37,0xdd,0x3a,0x2c,0x14,0xd6,$/;"	v
+Buffer16	atsha204.c	/^uint8_t Buffer16[39] ={0x27,0x12,0x82,0x78,0x00,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,0xFF,$/;"	v
+Buffer2	atsha204.c	/^uint8_t Buffer2[39] = {0x27,0x12,0x82,0x08,0x00,0x11,0x11,0x23,0xB6,0xCC,0x53,0xB7,0xB9,0xE9,0xBB,0x51,0xFD,0x2F,0x74,0xCD,0x0E,$/;"	v
+Buffer3	atsha204.c	/^uint8_t Buffer3[39] = {0x27,0x12,0x82,0x10,0x00,0x22,0x22,0xC1,0x7C,0x1C,0x4D,0x56,0x89,0xAA,0x00,0x43,0xE3,0x9C,0xFB,0x6B,0x0B,$/;"	v
+Buffer4	atsha204.c	/^uint8_t Buffer4[39] = {0x27,0x12,0x82,0x18,0x00,0xc1,0x25,0x35,0xd4,0x85,0x74,0x45,0x54,0x64,0x71,0x14,0x19,0xb4,0xa5,0xff,0x54,$/;"	v
+Buffer5	atsha204.c	/^uint8_t Buffer5[39] = {0x27,0x12,0x82,0x20,0x00,0xa5,0xc8,0x02,0x10,0x54,0x40,0xfb,0x41,0xa6,0x22,0xa7,0x16,0x84,0x76,0x00,0x43,$/;"	v
+Buffer6	atsha204.c	/^uint8_t Buffer6[39] = {0x27,0x12,0x82,0x28,0x00,0x45,0x87,0x46,0x92,0x20,0xb6,0x46,0x16,0xf5,0x56,0x96,0xfc,0x13,0xa6,0xa6,0x73,$/;"	v
+Buffer7	atsha204.c	/^uint8_t Buffer7[39] = {0x27,0x12,0x82,0x30,0x00,0xd6,0x23,0x45,0x12,0x56,0x89,0x74,0x89,0x46,0x24,0x63,0x71,0x46,0x16,0x75,0x89,$/;"	v
+Buffer8	atsha204.c	/^uint8_t Buffer8[39] = {0x27,0x12,0x82,0x38,0x00,0xc3,0xfb,0x39,0x47,0x56,0x84,0x14,0x26,0x84,0x43,0x49,0x11,0x44,0x13,0x34,0x31,$/;"	v
+Buffer9	atsha204.c	/^uint8_t Buffer9[39] = {0x27,0x12,0x82,0x40,0x00,0x46,0x48,0x14,0xca,0x15,0x78,0x91,0x68,0xc6,0x4f,0xc7,0xa6,0x14,0x22,0x47,0xdc,$/;"	v
+CH	atsha204.c	97;"	d	file:
+COMMAND_ADDRESS	atsha204.c	84;"	d	file:
+CONFIG_ZONE_BIT	atsha204.c	/^	CONFIG_ZONE_BIT=0,\/\/config zone$/;"	e	enum:__anon2	file:
+Client	atsha204.c	/^struct i2c_client *Client;$/;"	v	typeref:struct:i2c_client
+DATA_ZONE_BIT	atsha204.c	/^	DATA_ZONE_BIT,	\/\/data zone$/;"	e	enum:__anon2	file:
+DIFF_ZONE	atsha204.c	/^}DIFF_ZONE;$/;"	t	typeref:enum:__anon2	file:
+IDLE_ADDRESS	atsha204.c	83;"	d	file:
+KERNELDIR	Makefile	/^    KERNELDIR := \/home\/hecong\/work\/build_version\/kernel\/build$/;"	m
+LOCK_CFG_BIT	atsha204.c	74;"	d	file:
+LOCK_DATA_BIT	atsha204.c	77;"	d	file:
+MAJ	atsha204.c	98;"	d	file:
+OTP_ZONE_BIT	atsha204.c	/^	OTP_ZONE_BIT,	\/\/ otp zone$/;"	e	enum:__anon2	file:
+PACK32	atsha204.c	113;"	d	file:
+PWD	Makefile	/^    PWD := $(shell pwd)$/;"	m
+READ32_MODE	atsha204.c	/^static int READ32_MODE = 1;$/;"	v	file:
+READ4_MODE	atsha204.c	/^static int READ4_MODE = 0;$/;"	v	file:
+RESET_ADDRESS	atsha204.c	81;"	d	file:
+ROTL	atsha204.c	96;"	d	file:
+ROTR	atsha204.c	95;"	d	file:
+SHA204_BAD_CRC	atsha204.c	68;"	d	file:
+SHA204_SUCCESS	atsha204.c	67;"	d	file:
+SHA224_BLOCK_SIZE	atsha204.h	34;"	d
+SHA224_DIGEST_SIZE	atsha204.h	30;"	d
+SHA256_BLOCK_SIZE	atsha204.h	33;"	d
+SHA256_DIGEST_SIZE	atsha204.h	31;"	d
+SHA256_EXP	atsha204.c	130;"	d	file:
+SHA256_F1	atsha204.c	100;"	d	file:
+SHA256_F2	atsha204.c	101;"	d	file:
+SHA256_F3	atsha204.c	102;"	d	file:
+SHA256_F4	atsha204.c	103;"	d	file:
+SHA256_SCR	atsha204.c	124;"	d	file:
+SHA2_TYPES	atsha204.h	37;"	d
+SHFR	atsha204.c	94;"	d	file:
+SLEEP_ADDRESS	atsha204.c	82;"	d	file:
+UNPACK32	atsha204.c	105;"	d	file:
+WAKE_UP_BIT	atsha204.c	72;"	d	file:
+WRITE_CFG_BIT	atsha204.c	73;"	d	file:
+WRITE_CFG_SUCCESS	atsha204.c	69;"	d	file:
+WRITE_DATA_BIT	atsha204.c	76;"	d	file:
+WRITE_DATA_SUCCESS	atsha204.c	71;"	d	file:
+WRITE_OTP_BIT	atsha204.c	75;"	d	file:
+WRITE_OTP_SUCCESS	atsha204.c	70;"	d	file:
+__this_module	atsha204.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	atsha204.mod.c	/^__used$/;"	v	file:
+atsh204_dbg	atsha204.c	55;"	d	file:
+atsh204_dbg	atsha204.c	60;"	d	file:
+atsh204_err	atsha204.c	57;"	d	file:
+atsh204_err	atsha204.c	61;"	d	file:
+atsh204_print	atsha204.c	58;"	d	file:
+atsh204_print	atsha204.c	62;"	d	file:
+atsha204_detect	atsha204.c	/^int atsha204_detect(struct i2c_client *client, struct i2c_board_info *info)$/;"	f
+atsha204_device	atsha204.c	/^static struct miscdevice atsha204_device = {$/;"	v	typeref:struct:miscdevice	file:
+atsha204_driver	atsha204.c	/^static struct i2c_driver atsha204_driver = {$/;"	v	typeref:struct:i2c_driver	file:
+atsha204_exit	atsha204.c	/^module_exit(atsha204_exit);$/;"	v
+atsha204_exit	atsha204.c	/^static void __exit atsha204_exit(void)$/;"	f	file:
+atsha204_fops	atsha204.c	/^static struct file_operations atsha204_fops = {$/;"	v	typeref:struct:file_operations	file:
+atsha204_i2c_rx_data	atsha204.c	/^static int atsha204_i2c_rx_data(char *buf, int len)$/;"	f	file:
+atsha204_i2c_tx_data	atsha204.c	/^static int atsha204_i2c_tx_data(char *buf, int len)$/;"	f	file:
+atsha204_i2c_write_bytes	atsha204.c	/^static int atsha204_i2c_write_bytes(struct i2c_client *client,uint8_t WordAddress,uint8_t *data,uint8_t len)$/;"	f	file:
+atsha204_id	atsha204.c	/^static const struct i2c_device_id atsha204_id[] = {$/;"	v	typeref:struct:i2c_device_id	file:
+atsha204_init	atsha204.c	/^module_init(atsha204_init);$/;"	v
+atsha204_init	atsha204.c	/^static int __init atsha204_init(void)$/;"	f	file:
+atsha204_ioctl	atsha204.c	/^static long atsha204_ioctl(struct file *file,$/;"	f	file:
+atsha204_lock_cfg	atsha204.c	/^static int atsha204_lock_cfg(struct i2c_client *client)$/;"	f	file:
+atsha204_lock_otp_data	atsha204.c	/^static int atsha204_lock_otp_data(struct i2c_client *client)$/;"	f	file:
+atsha204_mac	atsha204.c	/^static int atsha204_mac(struct i2c_client *client)$/;"	f	file:
+atsha204_open	atsha204.c	/^static int atsha204_open(struct inode *inode, struct file *file)$/;"	f	file:
+atsha204_probe	atsha204.c	/^static int __devinit atsha204_probe(struct i2c_client *client, const struct i2c_device_id *id)$/;"	f	file:
+atsha204_read	atsha204.c	/^static ssize_t atsha204_read (struct file *filp, char *buf, size_t count, loff_t *f_pos)$/;"	f	file:
+atsha204_read_cfg_all	atsha204.c	/^static void atsha204_read_cfg_all(void)$/;"	f	file:
+atsha204_read_command	atsha204.c	/^static uint8_t *atsha204_read_command(struct i2c_client *client,int mode,DIFF_ZONE zone,uint8_t wordaddr)$/;"	f	file:
+atsha204_release	atsha204.c	/^static int atsha204_release(struct inode *inode, struct file *file)$/;"	f	file:
+atsha204_remove	atsha204.c	/^static int atsha204_remove(struct i2c_client *client)$/;"	f	file:
+atsha204_reset_address_count	atsha204.c	/^void atsha204_reset_address_count(struct i2c_client *client)$/;"	f
+atsha204_sleep	atsha204.c	/^static void atsha204_sleep(struct i2c_client *client)$/;"	f	file:
+atsha204_st	atsha204.c	/^struct atsha204_st {$/;"	s	file:
+atsha204_wakeup	atsha204.c	/^static u32 atsha204_wakeup(struct i2c_client *client, u8 *buf, u32 num)$/;"	f	file:
+atsha204_write	atsha204.c	/^static ssize_t atsha204_write (struct file *filp, const char *buf, size_t count, loff_t *f_pos)$/;"	f	file:
+atsha204_write_cfg	atsha204.c	/^static int atsha204_write_cfg(struct i2c_client *client)$/;"	f	file:
+atsha204_write_data	atsha204.c	/^static int atsha204_write_data(struct i2c_client *client)$/;"	f	file:
+atsha204_write_otp	atsha204.c	/^static int atsha204_write_otp(struct i2c_client *client)$/;"	f	file:
+block	atsha204.h	/^    uint8 block[2 * SHA256_BLOCK_SIZE];$/;"	m	struct:__anon1
+client	atsha204.c	/^	struct i2c_client *client;$/;"	m	struct:atsha204_st	typeref:struct:atsha204_st::i2c_client	file:
+device_id	atsha204.c	/^	u8 device_id;$/;"	m	struct:atsha204_st	file:
+h	atsha204.h	/^    uint32 h[8];$/;"	m	struct:__anon1
+len	atsha204.h	/^    uint32 len;$/;"	m	struct:__anon1
+main	test-atsha204.c	/^int main()$/;"	f
+obj-m	Makefile	/^    obj-m := atsha204.o$/;"	m
+sha204_st	atsha204.c	/^struct atsha204_st *sha204_st;$/;"	v	typeref:struct:atsha204_st
+sha204c_calculate_crc	atsha204.c	/^void sha204c_calculate_crc(uint8_t length, uint8_t *data, uint8_t *crc) {$/;"	f
+sha204c_check_crc	atsha204.c	/^uint8_t sha204c_check_crc(uint8_t *response)$/;"	f
+sha256	atsha204.c	/^void sha256(const uint8 *message, uint32 len, uint8 *digest)$/;"	f
+sha256_ctx	atsha204.h	/^} sha256_ctx;$/;"	t	typeref:struct:__anon1
+sha256_final	atsha204.c	/^void sha256_final(sha256_ctx *ctx, uint8 *digest)$/;"	f
+sha256_h0	atsha204.c	/^uint32 sha256_h0[8] =$/;"	v
+sha256_init	atsha204.c	/^void sha256_init(sha256_ctx *ctx)$/;"	f
+sha256_k	atsha204.c	/^uint32 sha256_k[64] =$/;"	v
+sha256_transf	atsha204.c	/^void sha256_transf(sha256_ctx *ctx, const uint8 *message,$/;"	f
+sha256_update	atsha204.c	/^void sha256_update(sha256_ctx *ctx, const uint8 *message,$/;"	f
+sleep	atsha204.c	/^void sleep(int m)$/;"	f
+tot_len	atsha204.h	/^    uint32 tot_len;$/;"	m	struct:__anon1
+twi_id	atsha204.c	/^static __u32 twi_id = 1;$/;"	v	file:
+uint16	atsha204.h	/^typedef unsigned int  uint16;$/;"	t
+uint32	atsha204.h	/^typedef unsigned long uint32;$/;"	t
+uint8	atsha204.h	/^typedef unsigned char uint8;$/;"	t
+watch_dog_feed	atsha204.c	/^static int watch_dog_feed(struct i2c_client *client)$/;"	f	file:

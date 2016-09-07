@@ -1,0 +1,107 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ATSHA204_CHECKMAC_COMMAND	atsha204.c	45;"	d	file:
+ATSHA204_DEBUG_EN	atsha204.c	14;"	d	file:
+ATSHA204_I2C_ADDR	atsha204.c	25;"	d	file:
+ATSHA204_LOCK_COMMAND	atsha204.c	42;"	d	file:
+ATSHA204_MAC_COMMAND	atsha204.c	44;"	d	file:
+ATSHA204_NAME	atsha204.c	26;"	d	file:
+ATSHA204_NONCE_COMMAND	atsha204.c	43;"	d	file:
+ATSHA204_READ_COMMAND	atsha204.c	40;"	d	file:
+ATSHA204_WRITE_COMMAND	atsha204.c	41;"	d	file:
+CH	atsha204.c	50;"	d	file:
+COMMAND_ADDRESS	atsha204.c	37;"	d	file:
+CONFIG_ZONE_BIT	atsha204.c	/^	CONFIG_ZONE_BIT=0,\/\/config zone$/;"	e	enum:__anon2	file:
+DATA_ZONE_BIT	atsha204.c	/^	DATA_ZONE_BIT,	\/\/data zone$/;"	e	enum:__anon2	file:
+DIFF_ZONE	atsha204.c	/^}DIFF_ZONE;$/;"	t	typeref:enum:__anon2	file:
+IDLE_ADDRESS	atsha204.c	36;"	d	file:
+KERNELDIR	Makefile	/^    KERNELDIR := \/home\/hecong\/work\/build_version\/kernel\/build$/;"	m
+MAJ	atsha204.c	51;"	d	file:
+OTP_ZONE_BIT	atsha204.c	/^	OTP_ZONE_BIT,	\/\/ otp zone$/;"	e	enum:__anon2	file:
+PACK32	atsha204.c	66;"	d	file:
+PWD	Makefile	/^    PWD := $(shell pwd)$/;"	m
+READ32_MODE	atsha204.c	/^static int READ32_MODE = 1;$/;"	v	file:
+READ4_MODE	atsha204.c	/^static int READ4_MODE = 0;$/;"	v	file:
+RESET_ADDRESS	atsha204.c	34;"	d	file:
+ROTL	atsha204.c	49;"	d	file:
+ROTR	atsha204.c	48;"	d	file:
+SHA204_BAD_CRC	atsha204.c	28;"	d	file:
+SHA204_SUCCESS	atsha204.c	27;"	d	file:
+SHA224_BLOCK_SIZE	sha256.h	45;"	d
+SHA224_DIGEST_SIZE	sha256.h	41;"	d
+SHA256_BLOCK_SIZE	sha256.h	44;"	d
+SHA256_DIGEST_SIZE	sha256.h	42;"	d
+SHA256_EXP	atsha204.c	83;"	d	file:
+SHA256_F1	atsha204.c	53;"	d	file:
+SHA256_F2	atsha204.c	54;"	d	file:
+SHA256_F3	atsha204.c	55;"	d	file:
+SHA256_F4	atsha204.c	56;"	d	file:
+SHA256_SCR	atsha204.c	77;"	d	file:
+SHA2_H	sha256.h	39;"	d
+SHA2_TYPES	sha256.h	57;"	d
+SHFR	atsha204.c	47;"	d	file:
+SLEEP_ADDRESS	atsha204.c	35;"	d	file:
+UNPACK32	atsha204.c	58;"	d	file:
+WRITE_CFG_SUCCESS	atsha204.c	29;"	d	file:
+WRITE_DATA_SUCCESS	atsha204.c	31;"	d	file:
+WRITE_OTP_SUCCESS	atsha204.c	30;"	d	file:
+__this_module	atsha204.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	atsha204.mod.c	/^__used$/;"	v	file:
+atsh204_dbg	atsha204.c	16;"	d	file:
+atsh204_dbg	atsha204.c	20;"	d	file:
+atsh204_err	atsha204.c	17;"	d	file:
+atsh204_err	atsha204.c	21;"	d	file:
+atsh204_print	atsha204.c	18;"	d	file:
+atsh204_print	atsha204.c	22;"	d	file:
+atsha204_detect	atsha204.c	/^int atsha204_detect(struct i2c_client *client, struct i2c_board_info *info)$/;"	f
+atsha204_driver	atsha204.c	/^static struct i2c_driver atsha204_driver = {$/;"	v	typeref:struct:i2c_driver	file:
+atsha204_exit	atsha204.c	/^module_exit(atsha204_exit);$/;"	v
+atsha204_exit	atsha204.c	/^static void __exit atsha204_exit(void)$/;"	f	file:
+atsha204_i2c_write_bytes	atsha204.c	/^static int atsha204_i2c_write_bytes(struct i2c_client *client,uint8_t WordAddress,uint8_t *data,uint8_t len)$/;"	f	file:
+atsha204_id	atsha204.c	/^static const struct i2c_device_id atsha204_id[] = {$/;"	v	typeref:struct:i2c_device_id	file:
+atsha204_init	atsha204.c	/^module_init(atsha204_init);$/;"	v
+atsha204_init	atsha204.c	/^static int __init atsha204_init(void)$/;"	f	file:
+atsha204_lock_cfg	atsha204.c	/^static int atsha204_lock_cfg(struct i2c_client *client)$/;"	f	file:
+atsha204_lock_otp_data	atsha204.c	/^static int atsha204_lock_otp_data(struct i2c_client *client)$/;"	f	file:
+atsha204_mac	atsha204.c	/^static int atsha204_mac(struct i2c_client *client)$/;"	f	file:
+atsha204_probe	atsha204.c	/^static int __devinit atsha204_probe(struct i2c_client *client, const struct i2c_device_id *id)$/;"	f	file:
+atsha204_read_command	atsha204.c	/^static uint8_t *atsha204_read_command(struct i2c_client *client,int mode,DIFF_ZONE zone,uint8_t wordaddr)$/;"	f	file:
+atsha204_reset_address_count	atsha204.c	/^void atsha204_reset_address_count(struct i2c_client *client)$/;"	f
+atsha204_sleep	atsha204.c	/^static void atsha204_sleep(struct i2c_client *client)$/;"	f	file:
+atsha204_st	atsha204.c	/^struct atsha204_st {$/;"	s	file:
+atsha204_wakeup	atsha204.c	/^static u32 atsha204_wakeup(struct i2c_client *client, u8 *buf, u32 num)$/;"	f	file:
+atsha204_write_cfg	atsha204.c	/^static int atsha204_write_cfg(struct i2c_client *client)$/;"	f	file:
+atsha204_write_data	atsha204.c	/^static int atsha204_write_data(struct i2c_client *client)$/;"	f	file:
+atsha204_write_otp	atsha204.c	/^static int atsha204_write_otp(struct i2c_client *client)$/;"	f	file:
+block	sha256.h	/^    uint8 block[2 * SHA256_BLOCK_SIZE];$/;"	m	struct:__anon1
+client	atsha204.c	/^	struct i2c_client *client;$/;"	m	struct:atsha204_st	typeref:struct:atsha204_st::i2c_client	file:
+delay_us	atsha204.c	/^static void delay_us(int num)$/;"	f	file:
+device_id	atsha204.c	/^	u8 device_id;$/;"	m	struct:atsha204_st	file:
+dirty_addr_buf	atsha204.c	/^	unsigned short dirty_addr_buf[2];$/;"	m	union:__anon3	file:
+fm_fetch_sysconfig_para	atsha204.c	/^static int fm_fetch_sysconfig_para(void)           \/\/从配置文件获取 设备信息: name ，addr$/;"	f	file:
+h	sha256.h	/^    uint32 h[8];$/;"	m	struct:__anon1
+iic_addr	atsha204.c	/^static __u32 iic_addr = 0x64; $/;"	v	file:
+len	sha256.h	/^    uint32 len;$/;"	m	struct:__anon1
+normal_i2c	atsha204.c	/^	const unsigned short normal_i2c[2];$/;"	m	union:__anon3	file:
+obj-m	Makefile	/^    obj-m := atsha204.o$/;"	m
+sha204c_calculate_crc	atsha204.c	/^void sha204c_calculate_crc(uint8_t length, uint8_t *data, uint8_t *crc) {$/;"	f
+sha204c_check_crc	atsha204.c	/^uint8_t sha204c_check_crc(uint8_t *response)$/;"	f
+sha256	atsha204.c	/^void sha256(const uint8 *message, uint32 len, uint8 *digest)$/;"	f
+sha256_ctx	sha256.h	/^} sha256_ctx;$/;"	t	typeref:struct:__anon1
+sha256_final	atsha204.c	/^void sha256_final(sha256_ctx *ctx, uint8 *digest)$/;"	f
+sha256_h0	atsha204.c	/^uint32 sha256_h0[8] =$/;"	v
+sha256_init	atsha204.c	/^void sha256_init(sha256_ctx *ctx)$/;"	f
+sha256_k	atsha204.c	/^uint32 sha256_k[64] =$/;"	v
+sha256_transf	atsha204.c	/^void sha256_transf(sha256_ctx *ctx, const uint8 *message,$/;"	f
+sha256_update	atsha204.c	/^void sha256_update(sha256_ctx *ctx, const uint8 *message,$/;"	f
+tot_len	sha256.h	/^    uint32 tot_len;$/;"	m	struct:__anon1
+twi_id	atsha204.c	/^static __u32 twi_id = 1;$/;"	v	file:
+u_i2c_addr	atsha204.c	/^}u_i2c_addr = {{0x00},};$/;"	v	typeref:union:__anon3	file:
+uint16	sha256.h	/^typedef unsigned int  uint16;$/;"	t
+uint32	sha256.h	/^typedef unsigned long uint32;$/;"	t
+uint8	sha256.h	/^typedef unsigned char uint8;$/;"	t
+watch_dog_feed	atsha204.c	/^static int watch_dog_feed(struct i2c_client *client)$/;"	f	file:
